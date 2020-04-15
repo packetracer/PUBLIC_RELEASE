@@ -1,4 +1,3 @@
-# COVID19 Cyber Threat Coalition blocklist | www.cyberthreatcoalition.org | IOCs has been vetted by humans with love <3
 http://1.246.222.113:1670/Mozi.m
 http://1.246.222.234:3030/Mozi.m
 http://1.246.222.4:2683/Mozi.m
